@@ -37,16 +37,13 @@
 <table align="center">
   <tr>
     <td>
-      <img src="https://img.icons8.com/?size=100&id=5rB9dWvHiGbf&format=png&color=000000" width="80">
+      <img src="https://github.com/user-attachments/assets/11fad078-9471-4b9a-a82d-64e98d3b5b09" width="100">
     </td>
     <td>
-      <a href="https://github.com/kittinan/spotify-github-profile">
-        <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31q2uqauws77tlh6cztqkqgn4bse&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=true&profanity=false&bar_color=53b14f&bar_color_cover=true">
-      </a>
+      <img src="https://github.com/user-attachments/assets/4682a4b7-384a-409e-8e71-1d890bd50102" width="100">
     </td>
     <td>
-      <img src="https://img.icons8.com/?size=100&id=FXMtf1wLYR2i&format=png&color=000000" width="80">
+      <img width="100" alt="image" src="https://github.com/user-attachments/assets/261b543a-373b-4cad-91a3-4ac9e9c8b97a"/>
     </td>
   </tr>
 </table>
-
