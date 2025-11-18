@@ -26,7 +26,6 @@
     <td>
       <ul>
         <li><a href="https://github.com/nandasfarias/paa-exercicios">Analysis and Project of Algorithms</li>
-        <li><a href="https://github.com/nandasfarias/graphs">Graphs</li>
       </ul>
     </td>
   </tr>
