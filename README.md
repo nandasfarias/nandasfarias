@@ -26,6 +26,7 @@
     <td>
       <ul>
         <li><a href="https://github.com/nandasfarias/paa-exercicios">Analysis and Project of Algorithms</li>
+        <li><a href="https://github.com/nandasfarias/sistemas-operacionais-atv-1">Operational Systems 1</li>
       </ul>
     </td>
   </tr>
